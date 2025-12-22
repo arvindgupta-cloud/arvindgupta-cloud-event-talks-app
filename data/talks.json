@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of JavaScript",
+    "speakers": ["Jane Doe"],
+    "categories": ["JavaScript", "Web Development"],
+    "duration": 60,
+    "description": "A deep dive into the upcoming features of ECMAScript and what they mean for the future of web development."
+  },
+  {
+    "title": "Advanced CSS Techniques",
+    "speakers": ["John Smith"],
+    "categories": ["CSS", "Frontend"],
+    "duration": 60,
+    "description": "Learn about the latest and greatest in CSS, including Grid, Flexbox, and custom properties."
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["Peter Jones", "Mary Johnson"],
+    "categories": ["Node.js", "Backend"],
+    "duration": 60,
+    "description": "A look at best practices for building robust and scalable APIs with Node.js and Express."
+  },
+  {
+    "title": "State Management in React",
+    "speakers": ["David Chen"],
+    "categories": ["React", "JavaScript"],
+    "duration": 60,
+    "description": "An overview of different state management solutions in React, from local state to Redux and MobX."
+  },
+  {
+    "title": "Web Security Essentials",
+    "speakers": ["Susan Williams"],
+    "categories": ["Security", "Web Development"],
+    "duration": 60,
+    "description": "Learn how to protect your web applications from common security vulnerabilities like XSS and CSRF."
+  },
+  {
+    "title": "The Rise of Serverless",
+    "speakers": ["Michael Brown"],
+    "categories": ["Serverless", "Architecture"],
+    "duration": 60,
+    "description": "An introduction to serverless computing and how it can change the way you build and deploy applications."
+  }
+]
