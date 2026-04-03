@@ -1,0 +1,15 @@
+{
+  "name": "tech-talks-event",
+  "version": "1.0.0",
+  "description": "A simple website for a 1-day tech talks event.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
